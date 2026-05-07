@@ -4,5 +4,3 @@ Buna! Eu sunt Alex!
 - Imi place foarte mult sa petrec timpul cu catelul meu, Spike.
 - Construiesc multe lucruri din lego ( in special technic )
 - In timpul liber, imi place sa fac poze:
-
-![imagine foarte frumoasa](https://raw.githubusercontent.com/Mindrila-Alexandru/Mindrila-Alexandru/main/deepseek-17781564623368241532664214538697.jpg)
